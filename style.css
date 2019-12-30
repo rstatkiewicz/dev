@@ -1,0 +1,47 @@
+h1 {
+    color: #2B59C3;
+    padding-left: 17px;
+  
+    margin: 32px auto;
+}
+
+p {
+    color: #253C78;
+    padding-left: 17px;
+
+}
+
+body {
+    background: white;
+}
+
+h2 {
+    color:#06AED5;
+    padding-left: 17px;
+
+}
+
+h3 {
+    color: #086788;
+    padding-left: 17px;
+    
+}
+
+footer {
+    color: #251101;
+    padding-left: 17px;
+   
+}
+.box1{
+    width: 100px;
+    height: 100px; 
+   border: 3px solid red;
+    color: green;
+    background-color: yellow; 
+}
+#backg{
+    background-color: yellow;
+}
+.paragraph{
+    color:pink;
+}
