@@ -1,47 +1,78 @@
-h1 {
-    color: #2B59C3;
-    padding-left: 17px;
+.head1{
+    text-align: center;
+}
+#main1{
+    background-color: beige;
+    text-align: center;
+}
+        .main1__box1{
+            width: 100px;
+            height: 100px; 
+           border: 3px solid red;
+            color: green;
+            background-color: beige; 
+            position absolute;
+            margin-left: 47.396%;
+           
+           
+           
+        }
+                .main1__h1 {
+                    color: #253C78;
+                    padding-left: 17px;
+                    
+                   
+                
+                }
+                .main__h2 {
+                    color:#06AED5;
+                    padding-left: 17px;
+                
+                    
+                
+                }
+                
+                .main__h3 {
+                    color: #086788;
+                    padding-left: 17px;
+                  
+               
+                }
+
+                .main__footer {
+                    color: #251101;
+                    padding-left: 17px;
+                
+                   
+                   
+                }
+                .main__paragraph{
+                    color:pink;
+                   
+                   
+                }
+                .main__paragraph--para1{
+            margin-top: 14%;
+               
+              
+
+                }
+.main__h2--notepad{
+    overflow: scroll; 
+    max-width: 400px;
+    max-height: 200px;
+    position: absolute;
+    margin-left: 39.584%;
   
-    margin: 32px auto;
-}
-
-p {
-    color: #253C78;
-    padding-left: 17px;
+  
 
 }
-
 body {
     background: white;
+    max-width: 1920px; 
 }
-
-h2 {
-    color:#06AED5;
-    padding-left: 17px;
+.main__h3{
 
 }
 
-h3 {
-    color: #086788;
-    padding-left: 17px;
-    
-}
 
-footer {
-    color: #251101;
-    padding-left: 17px;
-   
-}
-.box1{
-    width: 100px;
-    height: 100px; 
-   border: 3px solid red;
-    color: green;
-    background-color: yellow; 
-}
-#backg{
-    background-color: yellow;
-}
-.paragraph{
-    color:pink;
-}
